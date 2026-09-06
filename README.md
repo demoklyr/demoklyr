@@ -11,7 +11,6 @@ AI & Software Engineering student @ EPITA (SCIA) — ML, Systems & Cloud
 - 🔬 Currently doing ML research @ **Virtuosis × EPFL** (vocal biomarkers for health)
 - 💼 Ex-intern @ **PwC Luxembourg** — Azure automation, **-95% manual config time**
 - 🛠️ `Python` `C/C++` `Go` `Rust` `Scala` · `Docker` `Azure` `Kafka` `CUDA`
-- ⚡ Highlights: Transformer from scratch in CUDA, Unix shell in C, compiler in C++
 - 🌍 available Feb 2027 for a 6 mouths internship 
 <!--
 **demoklyr/demoklyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
